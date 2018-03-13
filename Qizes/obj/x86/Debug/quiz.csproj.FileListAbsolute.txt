@@ -1,0 +1,4 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\quiz\bin\Debug\quiz.exe
+C:\Users\student\Documents\Visual Studio 2010\Projects\quiz\bin\Debug\quiz.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\quiz\obj\x86\Debug\quiz.exe
+C:\Users\student\Documents\Visual Studio 2010\Projects\quiz\obj\x86\Debug\quiz.pdb
